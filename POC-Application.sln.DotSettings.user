@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e56ccf6_002D9d64_002D4dce_002Da695_002D35dec04bd79d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GreetingMessage_ShouldNotBeNullAfterConstruction" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E17E7D5-EA47-4896-A85E-D60C99A4814A::net8.0::SalesManagement.WebApi.IntegrationTests.DependencyInjectionTests.Should_resolve_service_dependency&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E17E7D5-EA47-4896-A85E-D60C99A4814A::net8.0::SalesManagement.WebApi.IntegrationTests.DependencyInjectionTests.Should_resolve_controller_dependency&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B48759-9AE2-45A9-A468-3305E50CF3BA::net8.0::SalesExplorer.Infrastructure.IntegrationTests.SalesManagementApiClientTests.Should_get_district_details&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B48759-9AE2-45A9-A468-3305E50CF3BA::net8.0::SalesExplorer.Infrastructure.IntegrationTests.SalesManagementApiClientTests.Should_get_store_details&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3E17E7D5-EA47-4896-A85E-D60C99A4814A::net8.0::SalesManagement.WebApi.IntegrationTests.DependencyInjectionTests.Should_resolve_repository_dependency&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
